@@ -1,0 +1,16 @@
+C:\Users\Admin\Desktop\inserion sort\bin\Debug\net5.0\inserion sort.exe
+C:\Users\Admin\Desktop\inserion sort\bin\Debug\net5.0\inserion sort.deps.json
+C:\Users\Admin\Desktop\inserion sort\bin\Debug\net5.0\inserion sort.runtimeconfig.json
+C:\Users\Admin\Desktop\inserion sort\bin\Debug\net5.0\inserion sort.runtimeconfig.dev.json
+C:\Users\Admin\Desktop\inserion sort\bin\Debug\net5.0\inserion sort.dll
+C:\Users\Admin\Desktop\inserion sort\bin\Debug\net5.0\ref\inserion sort.dll
+C:\Users\Admin\Desktop\inserion sort\bin\Debug\net5.0\inserion sort.pdb
+C:\Users\Admin\Desktop\inserion sort\obj\Debug\net5.0\inserion sort.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\inserion sort\obj\Debug\net5.0\inserion sort.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\inserion sort\obj\Debug\net5.0\inserion sort.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\inserion sort\obj\Debug\net5.0\inserion sort.AssemblyInfo.cs
+C:\Users\Admin\Desktop\inserion sort\obj\Debug\net5.0\inserion sort.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\inserion sort\obj\Debug\net5.0\inserion sort.dll
+C:\Users\Admin\Desktop\inserion sort\obj\Debug\net5.0\ref\inserion sort.dll
+C:\Users\Admin\Desktop\inserion sort\obj\Debug\net5.0\inserion sort.pdb
+C:\Users\Admin\Desktop\inserion sort\obj\Debug\net5.0\inserion sort.genruntimeconfig.cache
